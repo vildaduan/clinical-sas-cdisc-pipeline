@@ -52,8 +52,9 @@
 
 ---
 
-## 🛠 Validation Rules
+##  Validation Rules
 1. **Traceability:** Every variable in `ADSL` must be traceable to `DM`.
 2. **Missing Data:** Missing `SEX` values in raw data are mapped to "U" per CDISC standards.
 3. **Integrity:** The total subject count (N=60) must be consistent across all stages.
+
 
