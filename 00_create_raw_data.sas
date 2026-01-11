@@ -1,4 +1,3 @@
-/* REPLACE the path below with your copied Location path */
 %let path = /home/u64409252/data;
 libname raw "&path.";
 
