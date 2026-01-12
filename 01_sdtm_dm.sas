@@ -1,3 +1,4 @@
+/* This program resides in a separate file: 01_sdtm_dm.sas */
 libname raw "/home/u64409252/data";
 
 proc sort data=raw.dm_raw out=dm_sorted; by subjid; run;
