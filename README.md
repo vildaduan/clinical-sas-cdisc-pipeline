@@ -36,7 +36,7 @@ The study analyzes demographic characteristics for a safety population of **60 s
 Detailed mapping logic and metadata can be found in the [specifications.md](specifications.md) file.
 
 ##  Final Output
-* [View Final Table 14.1 (PDF)](output/Table_14_1_Demographics.png)
+
 * ![Final Table Output](output/Table_14_1_Demographics.png)
 
 ##  Technical Environment
