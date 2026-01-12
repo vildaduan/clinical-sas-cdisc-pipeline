@@ -37,6 +37,7 @@ Detailed mapping logic and metadata can be found in the [specifications.md](spec
 
 ##  Final Output
 * [View Final Table 14.1 (PDF)](output/Table_14_1_Demographics.png)
+* ![Final Table Output](output/Table_14_1_Demographics.png)
 
 ##  Technical Environment
 * **Language:** SAS 9.4
