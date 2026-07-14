@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_create_raw_data",
+  "source_file": "00_create_raw_data.sas",
+  "source_blob_sha": "c3997ee51b12d432f7fbe9432288b534f6f6f896",
+  "source_commit": "5b9740cac579df2e168cfd0314aef3a22f5888db",
+  "notes": "Raw EDC demographics (dm_raw) and treatment (ex_raw) builders with inline DATALINES; only change is the hardcoded EDC library path rewritten to a relative ./raw folder. 60 subjects each."
+}

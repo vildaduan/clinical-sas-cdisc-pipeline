@@ -1,0 +1,89 @@
+                                      Validation: Treatment and Age Group Mapping
+
+                                                   The FREQ Procedure
+
+Table of Planned Treatment by Planned Treatment (N)
+
+Planned Treatment    Planned Treatment (N)    Frequency    Percent    Cumulative    Cumulative
+                                                                       Frequency       Percent
+--------------------------------------------------------------------------------------
+Active Treatment                                     31     51.67            31        51.67
+Placebo                                              29     48.33            60       100.00
+
+Total Frequency = 60
+
+
+Table of Analysis Age by Age Group 1
+
+Analysis Age    Age Group 1    Frequency    Percent    Cumulative    Cumulative
+                                                        Frequency       Percent
+-----------------------------------------------------------------------
+23              < 50 years             1      1.67             1         1.67
+23              >= 50 years            0      0.00             1         1.67
+28              < 50 years             1      1.67             2         3.33
+28              >= 50 years            0      0.00             2         3.33
+29              < 50 years             1      1.67             3         5.00
+29              >= 50 years            0      0.00             3         5.00
+30              < 50 years             1      1.67             4         6.67
+30              >= 50 years            0      0.00             4         6.67
+32              < 50 years             1      1.67             5         8.33
+32              >= 50 years            0      0.00             5         8.33
+33              < 50 years             3      5.00             8        13.33
+33              >= 50 years            0      0.00             8        13.33
+35              < 50 years             1      1.67             9        15.00
+35              >= 50 years            0      0.00             9        15.00
+36              < 50 years             1      1.67            10        16.67
+36              >= 50 years            0      0.00            10        16.67
+37              < 50 years             1      1.67            11        18.33
+37              >= 50 years            0      0.00            11        18.33
+39              < 50 years             2      3.33            13        21.67
+39              >= 50 years            0      0.00            13        21.67
+43              < 50 years             1      1.67            14        23.33
+43              >= 50 years            0      0.00            14        23.33
+44              < 50 years             5      8.33            19        31.67
+44              >= 50 years            0      0.00            19        31.67
+45              < 50 years             3      5.00            22        36.67
+45              >= 50 years            0      0.00            22        36.67
+46              < 50 years             6     10.00            28        46.67
+46              >= 50 years            0      0.00            28        46.67
+49              < 50 years             4      6.67            32        53.33
+49              >= 50 years            0      0.00            32        53.33
+50              < 50 years             0      0.00            32        53.33
+50              >= 50 years            2      3.33            34        56.67
+53              < 50 years             0      0.00            34        56.67
+53              >= 50 years            1      1.67            35        58.33
+55              < 50 years             0      0.00            35        58.33
+55              >= 50 years            2      3.33            37        61.67
+56              < 50 years             0      0.00            37        61.67
+56              >= 50 years            2      3.33            39        65.00
+57              < 50 years             0      0.00            39        65.00
+57              >= 50 years            2      3.33            41        68.33
+59              < 50 years             0      0.00            41        68.33
+59              >= 50 years            1      1.67            42        70.00
+60              < 50 years             0      0.00            42        70.00
+60              >= 50 years            2      3.33            44        73.33
+61              < 50 years             0      0.00            44        73.33
+61              >= 50 years            1      1.67            45        75.00
+63              < 50 years             0      0.00            45        75.00
+63              >= 50 years            1      1.67            46        76.67
+64              < 50 years             0      0.00            46        76.67
+64              >= 50 years            1      1.67            47        78.33
+65              < 50 years             0      0.00            47        78.33
+65              >= 50 years            5      8.33            52        86.67
+66              < 50 years             0      0.00            52        86.67
+66              >= 50 years            1      1.67            53        88.33
+67              < 50 years             0      0.00            53        88.33
+67              >= 50 years            2      3.33            55        91.67
+70              < 50 years             0      0.00            55        91.67
+70              >= 50 years            1      1.67            56        93.33
+72              < 50 years             0      0.00            56        93.33
+72              >= 50 years            1      1.67            57        95.00
+73              < 50 years             0      0.00            57        95.00
+73              >= 50 years            1      1.67            58        96.67
+75              < 50 years             0      0.00            58        96.67
+75              >= 50 years            1      1.67            59        98.33
+77              < 50 years             0      0.00            59        98.33
+77              >= 50 years            1      1.67            60       100.00
+
+Total Frequency = 60
+

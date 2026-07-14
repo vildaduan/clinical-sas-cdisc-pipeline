@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_sdtm_dm",
+  "source_file": "01_sdtm_dm.sas",
+  "source_blob_sha": "cba3f49bba520f60c601f0e9ca787edd9b5afc52",
+  "source_commit": "5b9740cac579df2e168cfd0314aef3a22f5888db",
+  "notes": "SDTM DM mapping: sorts raw dm/ex, merges by subjid keeping demographics-only, derives SEX (M/F/U) and ARM. autoexec seeds raw.dm_raw/raw.ex_raw (upstream stage 00); library path made relative. Produces sdtm_dm (60 rows)."
+}
