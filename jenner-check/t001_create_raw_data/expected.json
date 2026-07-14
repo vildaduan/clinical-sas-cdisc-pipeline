@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-14T14:38:10Z",
+  "_captured_run_id": "r_4ceed77984b1402cad1ba4c2c6fa8ed3",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Library RAW assigned path=./raw.",
+    "Wrote raw.dm_raw (60 rows, 4 columns).",
+    "Wrote raw.ex_raw (60 rows, 2 columns)."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

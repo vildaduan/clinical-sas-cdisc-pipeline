@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_adam_adsl",
+  "source_file": "02_adam_adsl.sas",
+  "source_blob_sha": "677727156451bb0e209d4c10883687d7887460d3",
+  "source_commit": "5b9740cac579df2e168cfd0314aef3a22f5888db",
+  "notes": "ADaM ADSL derivations (TRTP/TRTPN, AGEGR1 age banding, SAFFL flag, industry labels) plus a PROC FREQ mapping-validation crosstab. Script byte-faithful (reads WORK.SDTM_DM); autoexec builds upstream stages 00+01. Produces adsl (60 rows)."
+}

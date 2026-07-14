@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-14T14:38:52Z",
+  "_captured_run_id": "r_095151b4db4e449cae621b0a6ec167e3",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Wrote dm_sorted (60 rows, 4 columns).",
+    "Wrote ex_sorted (60 rows, 2 columns).",
+    "Wrote sdtm_dm (60 rows, 7 columns)."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

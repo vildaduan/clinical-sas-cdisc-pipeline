@@ -1,0 +1,12 @@
+{
+  "_captured_at": "2026-07-14T14:42:52Z",
+  "_captured_run_id": "r_4e9ca27eb5f14be8963acedb287327cb",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Wrote adsl (60 rows, 11 columns).",
+    "PROC FREQ statement used."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
